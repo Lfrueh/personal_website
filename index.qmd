@@ -1,0 +1,67 @@
+---
+title: ""
+format: 
+  html:
+    toc: false
+    code-fold: true
+---
+
+```{=html}
+<style>
+  .info-box {
+    float: right;
+    width: 300px;
+    padding: 15px;
+    background-color: #f0f0f0; /* Light gray background */
+    border: 1px solid #ccc;    /* Light gray border */
+    border-radius: 8px;        /* Rounded corners */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3); /* Subtle shadow */
+    margin-right: 20px;        /* Space between box and text */
+    margin-bottom: 20px;       /* Space below the box */
+    margin-left: 20px;
+    line-height: 1;
+    display: flex;             /* Enable flexbox */
+    flex-direction: column;    /* Arrange children vertically */
+    align-items: center;       /* Center children horizontally */
+    text-align: center;        /* Center align text */
+  }
+  
+    .info-box img {
+    width: 200px;              /* Adjust image size */
+    height: 200px;             /* Ensure square dimensions */
+    border-radius: 50%;        /* Make image circular */
+    margin-bottom: 10px;       /* Space below image */
+  }
+</style>
+```
+::: info-box
+<img src="images/LFrueh.jpg" alt="Profile Picture"/>
+
+<h4>Lisa Frueh, MPH</h4>
+
+<small><em>they/them/theirs</em></small>
+
+PhD Candidate
+
+<p>
+
+Drexel University Dornsife School of Public Health, Dept. of Environmental and Occupational Health
+
+Philadelphia, PA
+
+</p>
+
+<p><b>lisa.frueh (at) drexel.edu</b></p>
+:::
+
+## About Me
+
+I am an experienced researcher who is passionate about promoting health equity and environmental justice through research, communication, and education. My research interests focus on **the complex role that social stressors and resilience factors play in modifying and/or mediating the effects of climate-related exposures on health.**
+
+Currently, I’m working on analyzing these effects across New York State in the context of pediatric health. I am also part of a [community-based air monitoring study](https://thriveairphilly.com/) in South/Southwest Philadelphia, which was co-designed with Philly Thrive, a local environmental justice organization.
+
+With a background in organic chemistry (BA, Reed College '15) and in Social and Behavioral Sciences (MPH, Harvard T.H. Chan School of Public Health ‘21), I understand that the determinants of population health operate on many scales, from molecular/biological to social/structural, throughout the life-course, and across generations.
+
+In my free time you can find me bouldering, cooking, or listening to music.
+
+<center>

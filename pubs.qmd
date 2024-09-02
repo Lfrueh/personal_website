@@ -1,0 +1,61 @@
+---
+title: "My Publications"
+---
+
+*Over the past decade, I’ve been involved in a diverse array of projects with one unifying theme: to better understand and improve population health for all.*
+
+### Recent Work
+
+1.  **Frueh L**, Sharma R, Sheffield PE, Clougherty JE. Community violence and asthma: a review. *Annals of Allergy, Asthma & Immunology*. Published online 2024, in press. [Link](https://www.sciencedirect.com/science/article/pii/S1081120624004538) \| [PDF](/docs/Frueh%20et%20al.%20-%202024%20-%20Community%20violence%20and%20asthma%20a%20review.pdf)
+
+2.  Sharma R, Humphrey JL, **Frueh L**, Kinnee EJ, Sheffield PE, Clougherty JE. Neighborhood violence and socioeconomic deprivation influence associations between acute air pollution and temperature on childhood asthma in New York city. *Environmental Research*. 2023;231:116235. [Link](https://www.sciencedirect.com/science/article/pii/S0013935123010368) \| [PDF](/docs/Sharma%20et%20al.%20-%202023%20-%20Neighborhood%20violence%20and%20socioeconomic%20deprivatio.pdf)
+
+### Nurses' Health Studies
+
+<details>As a research assistant with Drs. Heather Eliassen and Jae Hee Kang in the Channing Division of Network Medicine at Brigham and Women’s Hospital in Boston, MA (Nov. 2019 - April 2022), I wrote literature reviews, reviewed manuscripts, and supported research activities related to the Nurses’ Health Studies Cohorts. The Nurses’ cohorts are among the largest studies investigating risk factors for chronic disease in women.</details>
+
+1.  Zeleznik OA, Welling DB, Stankovic K, **Frueh L**, Balasubramanian R, Curhan GC, et al. Association of plasma metabolomic biomarkers with persistent tinnitus: a population-based case-control study. *JAMA Otolaryngology–Head & Neck Surgery*. 2023;149(5):404-415. [Link](https://jamanetwork.com/journals/jamaotolaryngology/article-abstract/2802179) \| [PDF](/docs/Zeleznik%20et%20al.%20-%202023%20-%20Association%20of%20plasma%20metabolomic%20biomarkers%20with%20.pdf)
+
+2.  Zeleznik OA, Kang JH, Lasky-Su J, Eliassen AH, **Frueh L**, Clish CB, et al. Plasma metabolite profile for primary open-angle glaucoma in three US cohorts and the UK Biobank. *Nature Communications.* 2023;14(1):2860. [Link](https://www.nature.com/articles/s41467-023-38466-w) \| [PDF](/docs/Zeleznik%20et%20al.%20-%202023%20-%20Plasma%20metabolite%20profile%20for%20primary%20open-angle%20g.pdf)
+
+3.  Wang T, Heng YJ, Baker GM, Bret-Mounet VC, Quintana LM, **Frueh L**, et al. Loss of PTEN Expression, PIK3CA Mutations, and Breast Cancer Survival in the Nurses’ Health Studies. *Cancer Epidemiology, Biomarkers & Prevention*. 2022;31(10):1926–34. [Link](https://aacrjournals.org/cebp/article-abstract/31/10/1926/709396) \| [PDF](/docs/Wang%20et%20al.%20-%202022%20-%20Loss%20of%20PTEN%20Expression,%20PIK3CA%20Mutations,%20and%20Bre.pdf)
+
+4.  Mínguez-Alarcón L, **Frueh L**, Williams PL, James-Todd T, Souter I, Ford JB, et al. Pregnancy urinary concentrations of bisphenol A, parabens and other phenols in relation to serum levels of lipid biomarkers: Results from the EARTH study. *Science of The Total Environment.* 2022;833:155191. [Link](https://www.sciencedirect.com/science/article/pii/S0048969722022847) \| [PDF](/docs/Mínguez-Alarcón%20et%20al.%20-%202022%20-%20Pregnancy%20urinary%20concentrations%20of%20bisphenol%20A,%20p.pdf)
+
+5.  Kang JH, Zeleznik O, **Frueh L**, Lasky-Su J, Eliassen AH, Clish C, et al. Prediagnostic plasma metabolomics and the risk of exfoliation glaucoma. *Investigative Ophthalmology & Visual Science.* 2022;63(9):15–15. [Link](https://iovs.arvojournals.org/article.aspx?articleid=2783561) \| [PDF](/docs/Kang%20et%20al.%20-%202022%20-%20Prediagnostic%20plasma%20metabolomics%20and%20the%20risk%20of%20.pdf)
+
+6.  Kang JH, Wang M, **Frueh L**, Rosner B, Wiggs JL, Elze T, et al. Cohort study of race/ethnicity and incident primary open-angle glaucoma characterized by autonomously determined visual field loss patterns. *Translational Vision Science & Technology.* 2022;11(7):21–21. [Link](https://jov.arvojournals.org/article.aspx?articleid=2783505) \| [PDF](/docs/Kang%20et%20al.%20-%202022%20-%20Cohort%20study%20of%20raceethnicity%20and%20incident%20primar.pdf)
+
+7.  Zeleznik OA, Balasubramanian R, Zhao Y, **Frueh L**, Jeanfavre S, Avila-Pacheco J, et al. Circulating amino acids and amino acid-related metabolites and risk of breast cancer among predominantly premenopausal women. *NPJ Breast cancer.* 2021;7(1):54. [Link](https://www.nature.com/articles/s41523-021-00262-4) \| [PDF](/docs/Zeleznik%20et%20al.%20-%202021%20-%20Circulating%20amino%20acids%20and%20amino%20acid-related%20met.pdf)
+
+8.  Zeleznik OA, Balasubramanian R, Ren Y, Tobias DK, Rosner BA, Peng C, Bever AM, **Frueh L**, Jeanfavre S, Avila-Pacheco J. *Branched-chain amino acids and risk of breast cancer.* JNCI cancer spectrum. 2021;5(5):pkab059. [Link](https://academic.oup.com/jncics/article-abstract/5/5/pkab059/6321892) \| [PDF](/docs/Zeleznik%20et%20al.%20-%202021%20-%20Branched-chain%20amino%20acids%20and%20risk%20of%20breast%20canc.pdf)
+
+### Harm Reduction & Substance Use Behaviors
+
+<details>I got into harm reduction research as a research volunteer for Providence, RI-based harm reduction organization Project Weber/RENEW. In collaboration with then-PhD candidate Dr. Alexandria Macmadu in the Department of Epidemiology at Brown University, we combed through police reports of overdose calls to see how helpful police actually were on-scene during some of the deadliest years of overdose in the city. I continued collaborating with Dr. Macmadu after this project (March 2021 - Dec. 2022), gaining experience with qualitative data analysis while investigating social network response to overdose and the COVID-19 pandemic’s impact on drug use behaviors.</details>
+
+1.  **Frueh L**, Collins AB, Newman R, Barnett NP, Rich JD, Clark MA, et al. Multi-level influences on increased overdose risk behaviors during the COVID-19 pandemic among people who use drugs in Rhode Island: a qualitative investigation. *Harm Reduction Journal.* 2023 Feb 4;20(1):14. [Link](_https://harmreductionjournal.biomedcentral.com/articles/10.1186/s12954-023-00741-w) \| [PDF](/docs/Frueh%20et%20al.%20-%202023%20-%20Multi-level%20influences%20on%20increased%20overdose%20risk.pdf)
+
+2.  Macmadu A, Yolken A, **Frueh L**, Toussaint JR, Newman R, Jacka BP, et al. Characteristics of events in which police responded to overdoses: an examination of incident reports in Rhode Island. *Harm Reduction Journal.* 2022 Oct 18;19(1):116. [Link](https://harmreductionjournal.biomedcentral.com/articles/10.1186/s12954-022-00698-2) \| [PDF](/docs/Macmadu%20et%20al.%20-%202022%20-%20Characteristics%20of%20events%20in%20which%20police%20responde.pdf)
+
+3.  Macmadu A, **Frueh L**, Collins AB, Newman R, Barnett NP, Rich JD, et al. Drug use behaviors, trauma, and emotional affect following the overdose of a social network member: a qualitative investigation. *International Journal of Drug Policy*. 2022;107:103792. [Link](https://www.sciencedirect.com/science/article/pii/S0955395922002080) \| [PDF](/docs/Macmadu%20et%20al.%20-%202022%20-%20Drug%20use%20behaviors,%20trauma,%20and%20emotional%20affect%20f.pdf)
+
+### Malaria Drug Development
+
+<details>During and after my undergraduate training in chemistry, I synthesized and characterized novel antimalarials (and anti-parasitics more generally) under the guidance of Drs. Michael Riscoe and Aaron Nilsen of Oregon Health & Science University. During this time period, I discovered ELQ-331, a novel pro-drug of promising preclinical antimalarial drug candidate ELQ-300. The discovery improved ELQ-300’s solubility and bioavailability, and ELQ-331 was brought into the [Medicines for Malaria Venture’s drug development pipeline](https://www.mmv.org/newsroom/news/looking-back-extraordinary-year) in 2020. ELQ-331 and associated pro-drugs were patented in 2020 \[US Patent No. 10,584,098\].</details>
+
+1.  Pal AC, Renard I, Singh P, Vydyam P, Chiu JE, Pou S, Winter R, Dodean R, **Frueh L**, Nilsen A. Babesia duncani as a model organism to study the development, virulence, and drug susceptibility of intraerythrocytic parasites in vitro and in vivo. *The Journal of Infectious Diseases. 2022;226(7):1267–75.* [Link](https://academic.oup.com/jid/article-abstract/226/7/1267/6580087)
+
+2.  Pou S, Dodean RA, **Frueh L**, Liebman KM, Gallagher RT, Jin H, et al. New Scalable Synthetic Routes to ELQ-300 , ELQ-316 , and Other Antiparasitic Quinolones. Org Process Res Dev. 2021 Aug 20;25(8):1841–52. [Link](https://pubs.acs.org/doi/10.1021/acs.oprd.1c00099) \| [PDF](/docs/Pou%20et%20al.%20-%202021%20-%20New%20Scalable%20Synthetic%20Routes%20to%20ELQ-300%20,%20.pdf)
+
+3.  Chiu J, Renard I, Pal A, Singh P, Vydyam P, Thekkiniath J, Kumar M, Gihaz S, Pou S, Winter R, Dodean R, **Frueh L**, Nilsen A, Riscoe M, Doggett J, Mamoun C. Effective Therapy Targeting Cytochrome *bc* ~1~ Prevents *Babesia* Erythrocytic Development and Protects from Lethal Infection. *Antimicrobial Agents Chemotherapy*. 2021 Aug 17;65(9):e00662-21. [Link](https://journals.asm.org/doi/10.1128/AAC.00662-21) \| [PDF](/docs/Chiu%20et%20al.%20-%202021%20-%20Effective%20Therapy%20Targeting%20Cytochrome%20bc%20.pdf)
+
+4.  Potharaju S, Mutyam SK, Liu M, Green C, **Frueh L**, Nilsen A, et al. Improving solubility and oral bioavailability of a novel antimalarial prodrug: comparing spray-dried dispersions with self-emulsifying drug delivery systems. *Pharmaceutical Development and Technology.* 2020 May 27;25(5):625–39. [Link](https://www.tandfonline.com/doi/full/10.1080/10837450.2020.1725893)
+
+5.  Smilkstein MJ, Pou S, Krollenbrock A, Bleyle LA, Dodean RA, **Frueh L**, et al. ELQ-331 as a prototype for extremely durable chemoprotection against malaria. *Malaria Journal.* 2019 Dec;18(1):291. [Link](https://malariajournal.biomedcentral.com/articles/10.1186/s12936-019-2921-9) \| [PDF](/docs/Smilkstein%20et%20al.%20-%202019%20-%20ELQ-331%20as%20a%20prototype%20for%20extremely%20durable%20chemo.pdf)
+
+6.  Smith JL, Sheridan K, Parkins CJ, **Frueh L**, Jemison AL, Strode K, et al. Characterization and structure-activity relationship analysis of a class of antiviral compounds that directly bind dengue virus capsid protein and are incorporated into virions. *Antiviral Research*. 2018;155:12–9. [Link](https://www.sciencedirect.com/science/article/pii/S016635421730339X)
+
+7.  **Frueh L**, Li Y, Mather MW, Li Q, Pou S, Nilsen A, et al. Alkoxycarbonate Ester Prodrugs of Preclinical Drug Candidate ELQ-300 for Prophylaxis and Treatment of Malaria. *ACS Infectious Diseases.* 2017 Oct 13;3(10):728–35. [Link](https://pubs.acs.org/doi/10.1021/acsinfecdis.7b00062) \| [PDF](/docs/Frueh%20et%20al.%20-%202017%20-%20Alkoxycarbonate%20Ester%20Prodrugs%20of%20Preclinical%20Drug.pdf)
+
+8.  **Frueh L**. A Contribution to the Fight Against Malaria: Novel Synthesis and Characterization of 3-alkylarylether-4 (1H)-quinolones with Antimalarial Properties \[Internet\] \[Undergraduate Thesis\]. Reed College; 2015. [PDF](/docs/LF%20Thesis%202015.pdf)

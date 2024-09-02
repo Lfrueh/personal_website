@@ -1,0 +1,73 @@
+---
+title: "Honors and Awards"
+format: html
+editor: visual
+---
+
+<h2>Mini-Grants</h2>
+
+-   **Build Up Peace Engineering Fellowship** \| *Build Up*
+
+    -   “Evaluating report-back of results from an air monitoring network in industrialized South Philadelphia communities” (2023-2024), \$6,000
+
+<h2>Awards</h2>
+
+<h3>2024</h3>
+
+-   **Faculty-Student Collaborative Project Awardee** \| *Mid-Atlantic Regional Public Health Training Center*
+
+    -   Administered through the University of Pittsburgh, Collaborative Projects provide funding for students to work with faculty in practice-based research and evidence-based practice. This award provided funding (\$3500) for a summer-long project to work on data analysis and report-back materials for THRIVEair, an NIH-funded community-based participatory air monitoring study in South and Southwest Philadelphia.
+
+-   **Wartenberg Travel Award** \| *International Society of Environmental Epidemiology*
+
+    -   Awarded to 16 researchers engaged in community-engaged environmental epidemiology. Funded travel, accommodations, and registration to the 2024 International Society of Environmental Epidemiology (ISEE) annual conference in Santiago, Chile.
+
+-   **Graduate College Doctoral Fellowship – Gold Level (2022 – 2024)** \| *Drexel University*
+
+    -   University-wide, faculty-nominated fellowship for graduate students. Gold level funding (\$10,000 award) awarded to 2-3 students annually.
+
+-   **Dean's Doctoral Fellowship (2022-2024)** \| *Drexel University Dornsife School of Public Health*
+
+    -   School-wide, faculty-nominated fellowship that provided full stipend support for the first two years of my doctoral training. I was the only recipient of this award in 2022 and was re-appointed for the 2023-2024 academic year.
+
+<h3>2023</h3>
+
+-   **Inclusion, Diversity, Equity & Antiracism (IDEA) Fellowship**\| *Drexel University Dornsife School of Public Health*
+
+    -   School-wide fellowship that funded work on a project to create interactive, GIS-based resources about measures of spatial social polarization.
+
+-   **Global Engagement Award** \| *Drexel University*
+
+    -   Univeristy-wide international travel award.
+
+<h3>2021</h3>
+
+-   **MPH Scholarship** \| *Harvard University*
+
+<h2>Honors</h2>
+
+<h3>2024</h3>
+
+-   **Graduate College Recognition Award** \| *Drexel University*
+
+    -   Awarded to leaders of the Public Health Doctoral Students Advisory Group (PHDSAG), for leadership and advocacy in support of the graduate student community’s health and well-being and efforts to enhance the student experience.
+
+-   **Teaching Assistance Excellence Award** \| *Drexel University*
+
+    -   Based on faculty and student nomination, awarded to 10 teaching assistants who exhibit exemplary commitment to student learning through reflective teaching practices, creative and innovative teaching methods, academic support, leadership and a commitment to their own professional growth and development as an educator.
+
+-   **Outstanding Promise Student Award** \| *Drexel University Dornsife School of Public Health*
+
+    -   School-wide award that recognizes one student in each academic level (undergraduate, master’s, and doctoral) who has “exhibited great promise for regional or national societal impact, and accordingly, for enhancing Drexel’s reputation, now and in the future.” Based on faculty and student nomination.
+
+<h3>2022</h3>
+
+-   **Runner-Up, ArcGIS Online StoryMaps Competition** \| *Esri*
+
+    -   The 2022 ArcGIS StoryMaps Competition “invited storytellers globally to build stories about an idea, challenge, or solution through innovative data visualization techniques using ArcGIS StoryMaps.” There was one winner and one runner-up in the Humanitarian and Social Justice category.
+
+<h3>2015</h3>
+
+-   **Phi Beta Kappa** \| *Reed College*
+
+    -   National honors society, with membership based on recommendation from participating school.

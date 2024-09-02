@@ -1,0 +1,15 @@
+---
+title: ""
+format: 
+  html:
+    toc: false
+    code-fold: true
+---
+
+<center>
+
+<h2>Get in Touch</h2>
+
+<a href = "mailto:lf649@drexel.edu"><img src="/images/icon-email.png" width="50px" height="50px" hspace="15"/></a> <a href = "https://www.linkedin.com/in/lisafrueh/"><img src="/images/icon-linkedin.png" width="50px" height="50px" hspace="15"/></a> <a href = "https://scholar.google.com/citations?user=RHvbcPkAAAAJ&hl=en"><img src="/images/icon-scholar.png" width="50px" height="50px" hspace="15"/></a> <a href = "https://orcid.org/0000-0002-2489-2467"><img src="/images/icon-orcid.png" width="50px" height="50px" hspace="15"/></a> <a href = "https://github.com/Lfrueh"><img src="/images/icon-github.png" width="50px" height="50px" hspace="15"/></a>
+
+</center>

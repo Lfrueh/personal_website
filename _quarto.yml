@@ -1,0 +1,53 @@
+project:
+  type: website
+
+website:
+  title: "Lisa Frueh, MPH"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: pubs.qmd
+        text: Publications
+      - href: presentations.qmd
+        text: Presentations
+      - href: web-pubs.qmd
+        text: Web Apps
+      - href: teaching.qmd
+        text: Teaching
+      - href: honors.qmd
+        text: Awards
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: envelope
+        aria-label: Email
+        href: mailto:lf649@drexel.edu
+      - icon: linkedin
+        aria-label: LinkedIn
+        href: https://www.linkedin.com/in/lisafrueh/
+  
+  page-footer:
+    center: 
+      - text: <img src = "/images/icon-email.png" height = 30px width = 30 px>
+        href: mailto:lf649@drexel.edu
+      - text: <img src = "/images/icon-linkedin.png" height = 30px width = 30 px>
+        href: https://www.linkedin.com/in/lisafrueh/
+      - text: <img src = "images/icon-scholar.png" height = 30px width = 30 px>
+        href: https://scholar.google.com/citations?user=RHvbcPkAAAAJ&hl=en
+      - text: <img src = "images/icon-orcid.png" height = 30px width = 30 px>
+        href: https://orcid.org/0000-0002-2489-2467
+      - text: <img src = "images/icon-github.png" height = 30px width = 30 px>
+        href: https://github.com/Lfrueh
+    background: "#f0f0f0"
+      
+format:
+  html:
+    theme: zephyr
+    css: styles.css
+    toc: true
+
+editor: visual
+
