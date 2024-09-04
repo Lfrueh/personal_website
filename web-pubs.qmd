@@ -1,8 +1,12 @@
 ---
 title: "Web Apps"
+format: 
+  html:
+    toc: false
+    code-fold: true
 ---
 
-<h3>THRIVEair Data Dashboard</h3>
+### THRIVEair Data Dashboard
 
 <details> THRIVEair is a community-based air monitoring project in South and Southwest Philadelphia which was designed as a partnership between [ Philly Thrive ](https://www.phillythrive.org/)and researchers at the [ Drexel Dornsife School of Public Health](https://drexel.edu/dornsife/) and [Lewis Clark State college](https://www.lcsc.edu/). Ambient volatile organic compound (VOC) concentrations were measured at locations determined by community members for one year, from summer 2023 to summer 2024. **For more information on the study, visit [THRIVEairPhilly.com ](https://thriveairphilly.com/)**
 
@@ -18,7 +22,7 @@ title: "Web Apps"
 
 </center>
 
-<h3>Spatial Social Polarization (SSP) Maps</h3>
+### Spatial Social Polarization (SSP) Maps
 
 <details>As an Inclusion, Diversity, Equity, and Antiracism (IDEA) Fellow in the summer of 2023, I worked with Dr. Gina Lovasi and the Drexel University Urban Health Collaborative to create an interactive R Shiny App which explores the Index of Concentrations at the Extremes (ICE), one measure of spatial social polarization.</details>
 
@@ -32,7 +36,7 @@ title: "Web Apps"
 
 </center>
 
-<h3>Environmental Racism in Greater Boston</h3>
+### Environmental Racism in Greater Boston
 
 <details>As a research assistant with Drs. Francine Laden, Jaime Hart, Gary Adamkiewicz, and Tamarra James-Todd in the Department of Environmental Health at Harvard T.H. Chan School of Public Health in Boston, MA (Feb. 2021 - Sep. 2022), I developed online, interactive, GIS-based resources on the topic of environmental racism in Greater Boston.</details>
 

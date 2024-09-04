@@ -1,14 +1,18 @@
 ---
 title: "Teaching Experience"
+format: 
+  html:
+    toc: true
+    code-fold: true
 ---
 
-<h2>Professional Development</h2>
+## Professional Development
 
 -   **Non-Credit Certification in College Teaching** \| *Drexel University*
 
     -   Provides Drexel University graduate students and postdocs with the experience and credentials to help them to become more effective instructors in higher education or to prepare for careers outside academia that involve training or teaching.
 
-<h2>Teaching Assistantships</h2>
+## Teaching Assistantships
 
 -   **EOH612: Exposure Science (Spring 2024)**
 

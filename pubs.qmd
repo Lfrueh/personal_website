@@ -2,7 +2,7 @@
 title: "My Publications"
 ---
 
-*Over the past decade, I’ve been involved in a diverse array of projects with one unifying theme: to better understand and improve population health for all.*
+Over the past decade, I have been involved in a diverse array of projects with one [unifying theme]{.underline}: to better understand and improve population health for all.
 
 ### Recent Work
 

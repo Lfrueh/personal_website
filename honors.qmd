@@ -1,22 +1,25 @@
 ---
 title: "Honors and Awards"
-format: html
+format: 
+  html:
+    toc: true
+    code-fold: true
 editor: visual
 ---
 
-<h2>Mini-Grants</h2>
+## Mini-Grants
 
 -   **Build Up Peace Engineering Fellowship** \| *Build Up*
 
     -   “Evaluating report-back of results from an air monitoring network in industrialized South Philadelphia communities” (2023-2024), \$6,000
 
-<h2>Awards</h2>
+## Awards
 
-<h3>2024</h3>
+### 2024
 
 -   **Faculty-Student Collaborative Project Awardee** \| *Mid-Atlantic Regional Public Health Training Center*
 
-    -   Administered through the University of Pittsburgh, Collaborative Projects provide funding for students to work with faculty in practice-based research and evidence-based practice. This award provided funding (\$3500) for a summer-long project to work on data analysis and report-back materials for THRIVEair, an NIH-funded community-based participatory air monitoring study in South and Southwest Philadelphia.
+    -   Administered through the University of Pittsburgh, Collaborative Projects provide funding for students to work with faculty in practice-based research and evidence-based practice. This award provided funding (\$3,500) for a summer-long project to work on data analysis and report-back materials for THRIVEair, an NIH-funded community-based participatory air monitoring study in South and Southwest Philadelphia.
 
 -   **Wartenberg Travel Award** \| *International Society of Environmental Epidemiology*
 
@@ -30,7 +33,7 @@ editor: visual
 
     -   School-wide, faculty-nominated fellowship that provided full stipend support for the first two years of my doctoral training. I was the only recipient of this award in 2022 and was re-appointed for the 2023-2024 academic year.
 
-<h3>2023</h3>
+### 2023
 
 -   **Inclusion, Diversity, Equity & Antiracism (IDEA) Fellowship**\| *Drexel University Dornsife School of Public Health*
 
@@ -40,13 +43,13 @@ editor: visual
 
     -   Univeristy-wide international travel award.
 
-<h3>2021</h3>
+### 2021
 
 -   **MPH Scholarship** \| *Harvard University*
 
-<h2>Honors</h2>
+## Honors
 
-<h3>2024</h3>
+### 2024
 
 -   **Graduate College Recognition Award** \| *Drexel University*
 
@@ -60,13 +63,13 @@ editor: visual
 
     -   School-wide award that recognizes one student in each academic level (undergraduate, master’s, and doctoral) who has “exhibited great promise for regional or national societal impact, and accordingly, for enhancing Drexel’s reputation, now and in the future.” Based on faculty and student nomination.
 
-<h3>2022</h3>
+### 2022
 
 -   **Runner-Up, ArcGIS Online StoryMaps Competition** \| *Esri*
 
     -   The 2022 ArcGIS StoryMaps Competition “invited storytellers globally to build stories about an idea, challenge, or solution through innovative data visualization techniques using ArcGIS StoryMaps.” There was one winner and one runner-up in the Humanitarian and Social Justice category.
 
-<h3>2015</h3>
+### 2015
 
 -   **Phi Beta Kappa** \| *Reed College*
 
