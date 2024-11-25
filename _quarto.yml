@@ -41,6 +41,8 @@ website:
         href: https://orcid.org/0000-0002-2489-2467
       - text: <img src = "images/icon-github.png" height = 30px width = 30 px>
         href: https://github.com/Lfrueh
+      - text: <img src = "images/icon-bluesky.png" height = 30px width = 30px>
+        href: https://bsky.app/profile/lfrueh.bsky.social
     background: "#f0f0f0"
       
 format:
