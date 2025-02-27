@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 677d4cc7-3e8a-4df2-bad2-e328930238a5
+      url: 'https://lfrueh.com'
