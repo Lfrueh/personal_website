@@ -14,10 +14,14 @@ format:
 
 ## Teaching Assistantships
 
--   **EOH612: Exposure Science (Spring 2024)**
+-   **EOH612: Exposure Science (Spring 2024, Spring 2025)**
 
-    -   Master's level course in exposure science. Co-designed syllabus, taught special topics lectures, assisted students with hands-on exposure assessment study design, data collection, and analysis.
+    -   Master's level course in exposure science. Co-designed syllabus, taught special topics lectures, assisted students with design and proposal of an exposure study.
 
 -   **EOH 510: Principles and Practice of Environmental and Occupational Health (Fall 2023)**
 
     -   Master's level introductory course in environmental and occupational health. Assisted in syllabus design, developed assessments, and taught one module on environmental justice.
+
+## Guest Lectures
+
+1.  "Exposure Distributions and Disparities: Environmental Justice"; EOH 510 Principles and Practice of Environmental Health. Oct 3, 2024.

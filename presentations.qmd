@@ -8,9 +8,9 @@ title: "Presentations"
 
 2.  **Frueh L.** Building an online interactive mapping resource to visualize spatial social polarization at varying scales: Challenges and opportunities. Oral presentation at: Drexel University Urban Health Collaborative GIS Day; November, 2023; Philadelphia, PA.
 
-3.   **Frueh L.** A Brief History of Redlining in Greater Boston. Oral presentation at: Metropolitan Area Planning Council; October, 2022; Boston, MA \[virtual\].
+3.  **Frueh L.** A Brief History of Redlining in Greater Boston. Oral presentation at: Metropolitan Area Planning Council; October, 2022; Boston, MA \[virtual\].
 
-4.   **Frueh L.** Communicating Environmental Justice Research: The NIEHS Center Environmental Racism StoryMap. Oral presentation at: Harvard T.H. Chan School of Public Health Environmental Justice Student Organization; March, 2022; Boston, MA.
+4.  **Frueh L.** Communicating Environmental Justice Research: The NIEHS Center Environmental Racism StoryMap. Oral presentation at: Harvard T.H. Chan School of Public Health Environmental Justice Student Organization; March, 2022; Boston, MA.
 
 5.  **Frueh L.** Development of an interactive, GIS-based online resource for a broad audience. Oral presentation at: Harvard Chan NIEHS-Center SPARC Session; February, 2022; Boston, MA \[virtual\].
 
