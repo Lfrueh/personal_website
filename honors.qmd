@@ -1,5 +1,5 @@
 ---
-title: "Honors and Awards"
+title: "Grants, Awards, Honors"
 format: 
   html:
     toc: true
@@ -7,11 +7,26 @@ format:
 editor: visual
 ---
 
-## Mini-Grants
+## Grants
 
--   **Build Up Peace Engineering Fellowship** \| *Build Up*
+### [Current Research]{.underline}
 
-    -   “Evaluating report-back of results from an air monitoring network in industrialized South Philadelphia communities” (2023-2024), \$6,000
+*Predoctoral Individual National Research Service Award\
+***PI:** Lisa Frueh\
+**Sponsor:** Jane Clougherty\
+**Funding Organization:** National Institute of Environmental Health Sciences\
+**Amount Awarded:** \$43,138\
+**Period of Grant Award:** 08/01/2025 – Present\
+**Title:** Schools as health-related assets: The role of school physical, educational, and social environments in shaping children's resilience to temperature and fine particulate matter exposure in New York
+
+### [Completed Research]{.underline}
+
+*Peace Engineering Fellowship*\
+**PI:** Lisa Frueh\
+**Funding Organization:** Build Up \
+**Amount Awarded:** \$6,000\
+**Period of Grant Award:** 06/01/2023 – 06/01/2024\
+**Title:** Evaluating report-back of results from an air monitoring network in industrialized South Philadelphia communitiesAwards
 
 ## Awards
 
