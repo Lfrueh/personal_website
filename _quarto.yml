@@ -16,7 +16,7 @@ website:
       - href: teaching.qmd
         text: Teaching
       - href: honors.qmd
-        text: Awards
+        text: Grants/Awards/Honors
       - href: cv.qmd
         text: CV
       - href: contact.qmd
