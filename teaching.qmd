@@ -24,4 +24,5 @@ format:
 
 ## Guest Lectures
 
-1.  "Exposure Distributions and Disparities: Environmental Justice"; EOH 510 Principles and Practice of Environmental Health. Oct 3, 2024.
+1.  "Exposure Distributions and Disparities: Environmental Justice"; Principles and Practice of Environmental Health. Oct 3, 2024 & Oct 2, 2025.
+2.  “Designing a Useful Table One”; Managing and Analyzing Environmental Epidemiology Data. May 26, 2025.
