@@ -6,11 +6,15 @@ Over the past decade, I have been involved in a diverse array of projects with o
 
 ### Recent Work
 
-1.  McCulley M, **Frueh L**, Meyers D, Jaros S, Magid HA, Bayer F, Lovasi G. Measuring Spatial Social Polarization in public health research: A scoping review of methods & applications. *Journal of Urban Health.* Published online March 2025. [Link](https://doi.org/10.1007/s11524-024-00957-6) \| [PDF](/docs/McCulley%20et%20al.%20-%202025%20-%20Measuring%20Spatial%20Social%20Polarization%20in%20Public%20Health%20Research%20A%20Scoping%20Review%20of%20Methods%20and%20App.pdf)
+1.  Tripathy S, **Frueh L**, Moore K. Nguyen JA, Sanders S, Aikens SL, White C, Foy CA, Robinson DM, Clincy M, Heath C, Mullison J, Winslow P, Johnson C, Tiegs G, Wahl KC, Johnston L, Johnston N, Clougherty JE. THRIVEair: A community-based air monitoring network design in a pollution-burdened Philadelphia neighborhood to advance environmental justice. \[Accepted manuscript \| *Environmental Justice*\]
 
-2.  **Frueh L**, Sharma R, Sheffield PE, Clougherty JE. Community violence and asthma: a review. *Annals of Allergy, Asthma & Immunology*. 2024;133(6):641-648.e12. [Link](https://www.sciencedirect.com/science/article/pii/S1081120624004538) \| [PDF](/docs/Frueh%20et%20al.%20-%202024%20-%20Community%20violence%20and%20asthma%20a%20review.pdf)
+2.  **Frueh L,** Sharma S, Kinnee EJ, Kubzanksy LD, Sheffield PE, Clougherty JE. Community assets as protective factors buffering health effects of environmental hazards: framework and considerations for environmental epidemiologists. *Environmental Research: Health.* 2026;4:013002. [Link](https://iopscience.iop.org/article/10.1088/2752-5309/ae3c3c) \| [PDF](docs/Frueh et al. - 2026 - Community assets as protective factors buffering health effects of environmental hazards framework.pdf)
 
-3.  Sharma R, Humphrey JL, **Frueh L**, Kinnee EJ, Sheffield PE, Clougherty JE. Neighborhood violence and socioeconomic deprivation influence associations between acute air pollution and temperature on childhood asthma in New York city. *Environmental Research*. 2023;231:116235. [Link](https://www.sciencedirect.com/science/article/pii/S0013935123010368) \| [PDF](/docs/Sharma%20et%20al.%20-%202023%20-%20Neighborhood%20violence%20and%20socioeconomic%20deprivatio.pdf)
+3.  McCulley M, **Frueh L**, Meyers D, Jaros S, Magid HA, Bayer F, Lovasi G. Measuring Spatial Social Polarization in public health research: A scoping review of methods & applications. *Journal of Urban Health.* 2025;102:213-239. [Link](https://doi.org/10.1007/s11524-024-00957-6) \| [PDF](/docs/McCulley%20et%20al.%20-%202025%20-%20Measuring%20Spatial%20Social%20Polarization%20in%20Public%20Health%20Research%20A%20Scoping%20Review%20of%20Methods%20and%20App.pdf)
+
+4.  **Frueh L**, Sharma R, Sheffield PE, Clougherty JE. Community violence and asthma: a review. *Annals of Allergy, Asthma & Immunology*. 2024;133(6):641-648.e12. [Link](https://www.sciencedirect.com/science/article/pii/S1081120624004538) \| [PDF](/docs/Frueh%20et%20al.%20-%202024%20-%20Community%20violence%20and%20asthma%20a%20review.pdf)
+
+5.  Sharma R, Humphrey JL, **Frueh L**, Kinnee EJ, Sheffield PE, Clougherty JE. Neighborhood violence and socioeconomic deprivation influence associations between acute air pollution and temperature on childhood asthma in New York city. *Environmental Research*. 2023;231:116235. [Link](https://www.sciencedirect.com/science/article/pii/S0013935123010368) \| [PDF](/docs/Sharma%20et%20al.%20-%202023%20-%20Neighborhood%20violence%20and%20socioeconomic%20deprivatio.pdf)
 
 ### Nurses' Health Studies
 
