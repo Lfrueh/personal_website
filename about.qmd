@@ -1,9 +1,0 @@
----
-title: "About Me"
----
-
-I am an experienced researcher who is passionate about promoting health equity and environmental justice through research, communication, and education. My research interests focus on how **the institutions we interact with (like schools and workplaces) can shape our susceptibility to ambient exposures (like air pollution and heat).** As part of my doctoral dissertation at Drexel University, I'm exploring these relationships for school-age children using publicly-available schools data linked to electronic health records. The primary value that shapes my research and praxis is a commitment to **environmental justice and advancing health equity**.
-
-With a background in organic chemistry (BA, Reed College '15) and in Social and Behavioral Sciences (MPH, Harvard T.H. Chan School of Public Health ‘21), I understand that the determinants of population health operate on many scales, from molecular/biological to social/structural, throughout the life-course, and across generations.
-
-In my free time you can find me at the muay thai gym, cooking, or listening to music.

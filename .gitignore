@@ -9,3 +9,4 @@ presentations-Lisa’s MacBook Pro (2).qmd
 docs/cv.pdf
 
 **/*.quarto_ipynb
+.Renviron

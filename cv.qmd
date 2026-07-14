@@ -6,3 +6,5 @@ format:
 ---
 
 #### <a href = "docs/CV.pdf">Lisa Frueh CV</a>
+
+<!-- TO DO: make the CV auto-render from the same pipeline. then I never have to update anything. or have it linked in a separate folder and then it auto updates or something. -->

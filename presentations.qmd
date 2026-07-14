@@ -2,44 +2,56 @@
 title: "Presentations"
 ---
 
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+library(readr)
+library(dplyr)
+
+# Paste your "Publish to web" CSV link for the Presentations tab here
+presentations_url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vTQwbP30e1rj9eR6NlSgrRrSbZybMghHNGoXHa2GylcFEaJjL3SP5j4-EdyG3Qj4MizkSyLRW9QH0dT/pub?gid=1896188767&single=true&output=csv"
+
+presentations <- read_csv(presentations_url, show_col_types = FALSE)
+
+safe <- function(x) ifelse(is.na(x), "", x)
+
+render_presentation <- function(p) {
+  cat(sprintf(
+    "1.  %s %s. %s at: %s; %s; %s.\n",
+    safe(p$Authors), safe(p$Title), safe(p$Format),
+    safe(p$Venue), safe(p$Date), safe(p$Location)
+  ))
+}
+```
+
 ## Invited Presentations
 
-1.  **Frueh L.** Schools as community assets in New York: UHC Dissertation Award Overview. Oral presentation at: Drexel University Urban Health Collaborative Weekly Forum; March 2025; Philadelphia, PA.
+```{r}
+#| echo: false
+#| results: asis
 
-2.  **Frueh L.** Communicating environmental health: from interactive web resources for broad audiences to targeted community air monitoring report-backs. Oral presentation at: OHSU-PSU School of Public Health; July 2024; Portland, OR.
-
-3.  **Frueh L.** Building an online interactive mapping resource to visualize spatial social polarization at varying scales: Challenges and opportunities. Oral presentation at: Drexel University Urban Health Collaborative GIS Day; November, 2023; Philadelphia, PA.
-
-4.  **Frueh L.** A Brief History of Redlining in Greater Boston. Oral presentation at: Metropolitan Area Planning Council; October, 2022; Boston, MA \[virtual\].
-
-5.  **Frueh L.** Communicating Environmental Justice Research: The NIEHS Center Environmental Racism StoryMap. Oral presentation at: Harvard T.H. Chan School of Public Health Environmental Justice Student Organization; March, 2022; Boston, MA.
-
-6.  **Frueh L.** Development of an interactive, GIS-based online resource for a broad audience. Oral presentation at: Harvard Chan NIEHS-Center SPARC Session; February, 2022; Boston, MA \[virtual\].
+invited <- presentations |> filter(Type == "Invited Presentation")
+for (i in seq_len(nrow(invited))) render_presentation(invited[i, ])
+```
 
 ## Conference Presentations
 
-1.  **Frueh L.** THRIVEair: Reporting Back Results. Oral presentation at: 2024 International Society of Exposure Science (ISES) Conference; October, 2024; Montreal, Canada.
+```{r}
+#| echo: false
+#| results: asis
 
-2.  **Frueh L.** School quality, environmental hazards, and pediatric susceptibility in New York. Oral presentation at: 2024 International Society for Environmental Epidemiology (ISEE) Conference; August, 2024; Santiago, Chile.
-
-3.  Clougherty JE, **Frueh L,** Sheffield PE. Climate resilience. Panel discussion presented at: 2024 CAFÉ Climate and Health Conference; February, 2024; \[virtual\].
-
-4.  **Frueh L.** South Philadelphia Community Air Monitoring Project: Community-Based Participatory Study Design. Oral presentation at: 2023 International Society for Environmental Epidemiology North American Chapter (ISEE NAC) Conference; June, 2023; Corvallis, OR.
-
-5.  **Frueh L.** Climate change-related exposures and risk of hospitalization among children aged 0-17 in New York State, 2005-2019: Preliminary analyses from the Understanding Pediatric Susceptibility Across Temperature and Environment in New York (UPStATE NY) Study. Oral presentation at: 2023 Society for Epidemiologic Research Conference; June, 2023; Portland, OR.
+conf_pres <- presentations |> filter(Type == "Conference Presentation")
+for (i in seq_len(nrow(conf_pres))) render_presentation(conf_pres[i, ])
+```
 
 ## Conference Posters
 
-1.  **Frueh L**, Tripathy S, Moore K, Tiegs G, Wahl KC, Johnston L, Johnston NA, Clougherty JE. Identifying Neighborhood Sources of Ambient Volatile Organic Compounds (VOCs): Results from THRIVEair, a Community-based Air Monitoring Project in South Philly. Poster presentation at: 2025 Interdisciplinary Association for Population Health Sciences (IAPHS) Conference; September, 2025; Pittsburgh, PA.
+```{r}
+#| echo: false
+#| results: asis
 
-2.  **Frueh L**, Kinnee EJ, Sheffield PE, Clougherty JE. The Spatial Distribution of School Environment Indicators in New York State and Co-Patterning with Sociodemographic Characteristics. Poster presentation at: 2025 Interdisciplinary Association for Population Health Sciences (IAPHS) Conference; September, 2025; Pittsburgh, PA.
-
-3.  **Frueh L**, Kinnee EJ, Just, A, Sheffield PE, Clougherty JE. Evaluating Public Schools as Health-Related Assets Buffering Adverse Health Impacts of Environmental Exposures in New York State. Poster presentation at: 2025 Drexel Urban Health Collaborative Urban Health Symposium; September, 2025; Philadelphia, PA.
-
-4.  **Frueh L**, Kinnee EJ, Just, A, Sheffield PE, Clougherty JE. The School Environment Modifies Pediatric Susceptibility to Air Pollution in New York State. Poster presentation at: 2025 International Society of Environmental Epidemiology (ISEE) / International Society of Exposure Science (ISES) Joint Conference; August, 2025; Atlanta, GA.
-
-5.  F**rueh L**, Kinnee EJ, Sheffield PE, Clougherty JE. The Spatial Distribution of School Environment Indicators in New York State and Co-Patterning with Sociodemographic Characteristics. Poster presentation at: 2025 International Society of Environmental Epidemiology (ISEE) / International Society of Exposure Science (ISES) Joint Conference; August, 2025; Atlanta, GA.
-
-6.  **Frueh L,** Sharma R, Kinnee EJ, Just AC, Sheffield PE, Clougherty JE.PM~2.5~ exposure is associated with an increased risk of pediatric ED visits in New York State, particularly at low concentrations. Poster presented at: 2023 International Society for Environmental Epidemiology (ISEE) Conference; September, 2023; Kaohsiung, Taiwan.
-
-7.  **Frueh L**, Winter RW, Nilsen A, Kelly JX, Li Y, Smilkstein MJ, Potharaju S, Mutyam S, Shankar G, Riscoe MK. Novel prodrugs and formulations of antimalarial preclinical candidate ELQ- 300. Poster presented at: 2016 American Society of Tropical Medicine and Hygiene 65th Annual Meeting; November, 2016; Atlanta, GA. 
+posters <- presentations |> filter(Type == "Conference Poster")
+for (i in seq_len(nrow(posters))) render_presentation(posters[i, ])
+```

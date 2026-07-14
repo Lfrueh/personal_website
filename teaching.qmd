@@ -6,23 +6,70 @@ format:
     code-fold: true
 ---
 
-## Professional Development
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
 
--   **Non-Credit Certification in College Teaching** \| *Drexel University*
+library(readr)
+library(dplyr)
 
-    -   Provides Drexel University graduate students and postdocs with the experience and credentials to help them to become more effective instructors in higher education or to prepare for careers outside academia that involve training or teaching.
+# Paste your "Publish to web" CSV link for the Teaching tab here
+teaching_url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vTQwbP30e1rj9eR6NlSgrRrSbZybMghHNGoXHa2GylcFEaJjL3SP5j4-EdyG3Qj4MizkSyLRW9QH0dT/pub?gid=1469525006&single=true&output=csv"
+
+teaching <- read_csv(teaching_url, show_col_types = FALSE)
+
+render_bullet <- function(title, subtitle, description) {
+  header <- if (!is.na(subtitle) && nzchar(trimws(subtitle))) {
+    sprintf("-   **%s** \\| *%s*\n\n", title, subtitle)
+  } else {
+    sprintf("-   **%s**\n\n", title)
+  }
+  cat(header)
+  if (!is.na(description) && nzchar(trimws(description))) {
+    cat(sprintf("    -   %s\n\n", description))
+  }
+}
+```
 
 ## Teaching Assistantships
 
--   **EOH612: Exposure Science (Spring 2024, Spring 2025)**
+```{r}
+#| echo: false
+#| results: asis
 
-    -   Master's level course in exposure science. Co-designed syllabus, taught special topics lectures, assisted students with design and proposal of an exposure study.
-
--   **EOH 510: Principles and Practice of Environmental and Occupational Health (Fall 2023)**
-
-    -   Master's level introductory course in environmental and occupational health. Assisted in syllabus design, developed assessments, and taught one module on environmental justice.
+ta <- teaching |> filter(Type == "Teaching Assistantship")
+for (i in seq_len(nrow(ta))) {
+  semesters <- ta$Semesters[i]
+  full_title <- if (!is.na(semesters) && nzchar(trimws(semesters))) {
+    sprintf("%s (%s)", ta$Course[i], semesters)
+  } else {
+    ta$Title[i]
+  }
+  render_bullet(full_title, ta$Organization[i], ta$Description[i])
+}
+```
 
 ## Guest Lectures
 
-1.  "Exposure Distributions and Disparities: Environmental Justice"; Principles and Practice of Environmental Health. Oct 3, 2024 & Oct 2, 2025.
-2.  “Designing a Useful Table One”; Managing and Analyzing Environmental Epidemiology Data. May 26, 2025.
+```{r}
+#| echo: false
+#| results: asis
+
+guest <- teaching |> filter(Type == "Guest Lecture")
+for (i in seq_len(nrow(guest))) {
+  cat(sprintf("1.  \"%s\"; %s. %s.\n", guest$Title[i], guest$Course[i], guest$Dates[i]))
+}
+```
+
+## Professional Development
+
+```{r}
+#| echo: false
+#| results: asis
+
+prof_dev <- teaching |> filter(Type == "Professional Development")
+for (i in seq_len(nrow(prof_dev))) {
+  render_bullet(prof_dev$Title[i], prof_dev$Organization[i], prof_dev$Description[i])
+}
+```
